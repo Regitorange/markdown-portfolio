@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. sleeping
+2. book reading
+3. gaming & coding
+4. 日本語
